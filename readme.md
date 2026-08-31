@@ -5,9 +5,9 @@ A state-of-the-art **Retrieval-Augmented Generation (RAG)** application that ele
 
 Built with **Streamlit**, **LangChain**, **FAISS**, and **Google Gemini 2.5 Flash / Pro**.
 
-![RAG Demo](RAG1.jpeg)
-![RAG Demo](RAG3.jpeg)
-![RAG Demo](RAG2.jpeg)
+![RAG Demo](public/RAG1.jpeg)
+![RAG Demo](public/RAG3.jpeg)
+![RAG Demo](public/RAG2.jpeg)
 
 
 ---
